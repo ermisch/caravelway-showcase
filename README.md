@@ -1,7 +1,7 @@
 # CaravelWay: how it is built
 
-CaravelWay is the in-house booking and back-office platform of Caravel Rent a Car, a family-run car
-rental company in Crete handling around 10,000 reservations a year. It replaced a WordPress booking
+CaravelWay is the in-house booking and back-office platform of Caravel Rent a Car, a car rental
+company in Crete handling around 10,000 reservations a year. It replaced a WordPress booking
 setup and a lot of manual work. Every brand website's bookings flow into it and every price comes from
 it; staff run the desk, confirmations, alerts and reports from one console; and travel companies
 connect through a partner API. This repository is a write-up, not the source code.
