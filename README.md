@@ -4,8 +4,7 @@ CaravelWay is the in-house booking and back-office platform of Caravel Rent a Ca
 company in Crete handling around 10,000 reservations a year. It replaced a WordPress booking
 setup and a lot of manual work. Every brand website's bookings flow into it and every price comes from
 it; staff run the desk, confirmations, alerts and reports from one console; and travel companies
-connect through a partner API. This repository is a write-up, not the source code. The pitch deck for the partner API as a neutral
-distribution layer is here: [Caravelway_pitch_deck.pdf](Caravelway_pitch_deck.pdf).
+connect through a partner API. This repository is a write-up, not the source code.
 
 ## Architecture
 
